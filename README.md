@@ -3,7 +3,8 @@
 - 💻 Estou trabalhando como desenvolvedora web júnior
 - 🌱 Estudando Javascript, Figma
 - 📧 Contate-me no email: angelaguacaran@gmail.com
--  <a href="https://www.flaticon.com/br/icones-gratis/linkedin" title="linkedin ícones">Linkedin ícones criados por Ruslan Babkin - Flaticon</a> contate-me 
+- ![linkedin-logo-24 (1)](https://user-images.githubusercontent.com/102700392/217817911-5ece1eb1-5019-43c0-a0d6-ffc2d0d17820.png)
+  contate-me 
 - 😄 Pronouns: Ela/dela 
 
 <div alinear="centro">
