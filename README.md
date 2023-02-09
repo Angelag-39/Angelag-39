@@ -3,7 +3,7 @@
 - 💻 Estou trabalhando como desenvolvedora web júnior
 - 🌱 Estudando Javascript, Figma
 - 📧 Contate-me no email: angelaguacaran@gmail.com
-- https://cdn-icons-png.flaticon.com/512/3536/3536505.png: https://www.linkedin.com/in/angela-daniela-guacaran-regalado-17805a1b8
+- <img align="right" alt="" height="20" width="30" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"> : https://www.linkedin.com/in/angela-daniela-guacaran-regalado-17805a1b8
 
  
 - 😄 Pronouns: Ela/dela 
