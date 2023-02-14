@@ -1,7 +1,8 @@
 ### 👋 Olá! Eu sou a Angela Guacaran
 
 - 💻 Estou trabalhando como desenvolvedora web júnior
-- 🌱 Estudando Javascript, Figma
+- 🌱 Estudando Javascript, Figma![image](https://user-images.githubusercontent.com/102700392/218843341-b7e6c1c3-85bf-49f2-b580-20c14e4d05ff.png)
+
 - 📧 Contate-me no email: angelaguacaran@gmail.com
 
 - 😄 Pronouns: Ela/dela 
