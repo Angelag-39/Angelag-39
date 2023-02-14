@@ -1,8 +1,7 @@
 ### 👋 Olá! Eu sou a Angela Guacaran
 
 - 💻 Estou trabalhando como desenvolvedora web júnior
-- 🌱 Estudando Javascript, Figma![image](https://user-images.githubusercontent.com/102700392/218843341-b7e6c1c3-85bf-49f2-b580-20c14e4d05ff.png)
-
+- 🌱 Estudando Javascript, Figma
 - 📧 Contate-me no email: angelaguacaran@gmail.com
 
 - 😄 Pronouns: Ela/dela 
@@ -11,6 +10,8 @@
   <a href="https://github.com/Angelag-39">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Angelag-39&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelag-39&layout=compact&langs_count=7&theme=dracula"/> 
+    ![image](https://user-images.githubusercontent.com/102700392/218843686-8101e291-f927-493f-8198-382e029c057d.png)
+
 </div>
   <div>
       <a href="https://www.linkedin.com/in/angela-daniela-guacaran-regalado-17805a1b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
