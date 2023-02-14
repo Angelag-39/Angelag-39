@@ -10,7 +10,7 @@
   <a href="https://github.com/Angelag-39">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Angelag-39&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelag-39&layout=compact&langs_count=7&theme=dracula"/> 
-    ![image](https://user-images.githubusercontent.com/102700392/218843686-8101e291-f927-493f-8198-382e029c057d.png)
+  
 
 </div>
   <div>
