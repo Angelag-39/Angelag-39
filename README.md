@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Angelag-39&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angelag-39&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
-  ![image](https://user-images.githubusercontent.com/102700392/218844572-3ad889da-281e-42a0-bf67-34a13787aad4.png)
+
 
   <div>
       <a href="https://www.linkedin.com/in/angela-daniela-guacaran-regalado-17805a1b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
