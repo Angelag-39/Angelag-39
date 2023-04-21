@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou a Angela Guacaran
 
-- 💻 Estou trabalhando como desenvolvedora web júnior
+- 💻 Estou trabalhando como desenvolvedora web júnior Freelancer 
 - 🌱 Estudando Javascript, Figma
 - 📧 Contate-me no email: angelaguacaran@gmail.com
 
