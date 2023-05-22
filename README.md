@@ -19,7 +19,7 @@
  
   <img align="right" alt="Angela-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/pKZytzB/Design-sem-nome-removebg-preview-1.png">
 </div>
-
+<br>
   <div>
       <a href="https://www.linkedin.com/in/angela-daniela-guacaran-regalado-17805a1b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
